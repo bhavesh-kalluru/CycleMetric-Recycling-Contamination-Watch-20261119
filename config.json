@@ -1,0 +1,10 @@
+{
+  "project": "CycleMetric",
+  "title": "Recycling Contamination Watch",
+  "sector": "Waste Management",
+  "subject": "recycling route",
+  "metric": "Contamination rate",
+  "unit": "percent",
+  "threshold": 10,
+  "sample": "Route Four"
+}
